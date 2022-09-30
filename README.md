@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @JosiahSchwahn
-- 👀 I’m interested in UX/UI and python scripting
-- 🌱 I’m currently learning python scripting in programs such as C4D
-- 💞️ I’m looking to collaborate on visual effects and 3D computer graphic related projects
+- 👀 I’m interested in front-end devolpment
+- 🌱 I’m currently learning JS, react, and WebGL -> three.js
+- 💞️ I’m looking to collaborate on UXUI, WEbGL, three.JS.
 - 📫 How to reach me 
-      email: josiah@missionranch.co
+      email: schwahn.josiah@gmail.com 
+      or 
+      Personal Website URL: --------
 
 <!---
 JosiahSchwahn/JosiahSchwahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
