@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS, react, and WebGL -> three.js
 - 💞️ I’m looking to collaborate on UXUI, WEbGL, three.JS.
 - 📫 How to reach me 
-      email: schwahn.josiah@gmail.com 
+      Email: schwahn.josiah@gmail.com 
       or 
       Personal Website URL: josiahschwahn.com
 
