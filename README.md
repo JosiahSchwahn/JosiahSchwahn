@@ -5,7 +5,7 @@
 - 📫 How to reach me 
       Email: schwahn.josiah@gmail.com 
       or 
-      Personal Website URL: <a>href='josiahschwahn.com'</a>
+      Personal Website URL: josiahschwahn.com
 
 <!---
 JosiahSchwahn/JosiahSchwahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
