@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JosiahSchwahn
-- 👀 I’m interested in front-end devolpment
-- 🌱 I’m currently learning JS, react, and WebGL -> three.js
-- 💞️ I’m looking to collaborate on UXUI, WEbGL, three.JS.
+- 💞️ Code everyday
 - 📫 How to reach me 
       Email: schwahn.josiah@gmail.com 
       or 
